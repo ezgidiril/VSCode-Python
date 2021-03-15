@@ -20,8 +20,8 @@ print(bir+iki+üc)
 """
 # formatter shift+ alt+f
 sayi = 562
-bir = sayi%10
-kalan= sayi%100
-iki= kalan//10
-üc= sayi//100
-print(bir,iki,üc)
+bir = sayi % 10
+kalan = sayi % 100
+iki = kalan//10
+üc = sayi//100
+print(bir, iki, üc)
